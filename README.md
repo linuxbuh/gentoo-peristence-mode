@@ -1,2 +1,2 @@
-# gentoo-peristence-mode
-gentoo-peristence-mode
+# linuxbuh-peristence-mode
+linuxbuh-peristence-mode
